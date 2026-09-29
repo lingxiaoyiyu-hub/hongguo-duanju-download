@@ -6,7 +6,7 @@
 
 ## ⬇ 立即下载
 
-**[下载 XDown短剧下载_v1.8.3.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/xdown-download/releases/download/v1.8.3/XDown%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v1.8.3.exe)**
+**[下载 XDown短剧下载_v1.8.3.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/xdown-download/releases/download/v1.8.3/XDown_v1.8.3.exe)**
 （229MB ｜ Windows 10/11 64 位 ｜ 免安装单文件）
 
 > 国内网络下载慢？用魔搭镜像：[XDown短剧下载_v1.8.3.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/XDown%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v1.8.3.exe)

@@ -11,10 +11,10 @@
 
 ## ⬇ 立即下载
 
-**[下载 XDown短剧下载_v1.8.5.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/xdown-download/releases/download/v1.8.5/XDown_v1.8.5.exe)**
+**[下载 XDown短剧下载_v1.8.8.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/xdown-download/releases/download/v1.8.8/XDown_v1.8.8.exe)**
 （229MB ｜ Windows 10/11 64 位 ｜ 免安装单文件）
 
-> 国内网络下载慢？用魔搭镜像：[XDown短剧下载_v1.8.5.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/XDown%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v1.8.5.exe)
+> 国内网络下载慢？用魔搭镜像：[XDown短剧下载_v1.8.8.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/XDown%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v1.8.8.exe)
 
 ## 它能做什么
 
@@ -80,6 +80,7 @@ XDACDE8FBA80D12204A3
 
 ## 更新日志
 
+- **v1.8.8**（2026-10-13）：修复首页与上新页不实时更新的问题（现每 10 分钟自动刷新）；设置页新增「关于软件」卡（版本号 / 检查更新 / 免责声明）；启动时提示新版本（不强制）；优化刷新请求量。
 - **v1.8.5**（2026-09-29）：首个公开发布版本。
 
 ## 免责声明

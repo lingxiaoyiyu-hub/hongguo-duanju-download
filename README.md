@@ -11,10 +11,10 @@
 
 ## ⬇ 立即下载
 
-**[下载 XDown短剧下载_v1.9.1.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/xdown-download/releases/download/v1.9.1/XDown_v1.9.1.exe)**
+**[下载 XDown短剧下载_v1.9.2.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/xdown-download/releases/download/v1.9.2/XDown_v1.9.2.exe)**
 （244.7MB ｜ Windows 10/11 64 位 ｜ 免安装单文件）
 
-> 国内网络下载慢？用魔搭镜像：[XDown短剧下载_v1.9.1.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/XDown%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v1.9.1.exe)
+> 国内网络下载慢？用魔搭镜像：[XDown短剧下载_v1.9.2.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/XDown%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v1.9.2.exe)
 
 ## 它能做什么
 
@@ -43,7 +43,7 @@
 ## 🎁 免费试用（每台电脑 1 小时）
 
 ```
-XDACDE8FBA80D12204A3
+XD2F249FC24A9FDFD22D
 ```
 
 把上面的试用卡密贴进登录框，即可体验完整功能 1 小时。
@@ -80,6 +80,7 @@ XDACDE8FBA80D12204A3
 
 ## 更新日志
 
+- **v1.9.2**（2026-10-18）：首页、上新日历、上新监控新增「刷新」按钮，只在点击时联网取数，页面不再自动刷新；有新剧时刷新按钮标红显示「新 N」，点一次即清零。上新监控仍按设定间隔自动检查并自动下载，只是不再重刷页面。同时把剧集列表抓取的起始并发由 1 提到 3，大批量翻页明显更快。
 - **v1.9.1**（2026-10-14）：修复下载任务取不到播放地址、整片下载失败的问题（签名算法已换代）；内容身份支持自动轮换。
 - **v1.9.0**（2026-10-14）：修复下载任务频繁失败的问题（取地址偶发空响应，现已自动重试）。
 - **v1.8.9**（2026-10-13）：修复下载全部失败的问题（红果取播放地址接口改版，已适配）。
@@ -89,4 +90,3 @@ XDACDE8FBA80D12204A3
 ## 免责声明
 
 本工具仅供个人学习与技术研究使用，请于体验后自行删除，勿用于商业用途。所有短剧内容的版权归原权利方所有，请支持正版。使用本工具所产生的任何问题由使用者自行承担。
-

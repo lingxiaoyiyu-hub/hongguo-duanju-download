@@ -11,10 +11,10 @@
 
 ## ⬇ 立即下载
 
-**[下载 XDown短剧下载_v1.9.5.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/xdown-download/releases/download/v1.9.5/XDown_v1.9.5.exe)**
+**[下载 XDown短剧下载_v1.9.6.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/xdown-download/releases/download/v1.9.6/XDown_v1.9.6.exe)**
 （244.7MB ｜ Windows 10/11 64 位 ｜ 免安装单文件）
 
-> 国内网络下载慢？用魔搭镜像：[XDown短剧下载_v1.9.3.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/XDown%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v1.9.5.exe)
+> 国内网络下载慢？用魔搭镜像：[XDown短剧下载_v1.9.3.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/XDown%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v1.9.6.exe)
 
 ## 它能做什么
 
@@ -81,6 +81,7 @@ XDACDE8FBA80D12204A3
 
 ## 更新日志
 
+- **v1.9.6**（2026-10-22）：修复搜索失效的问题（官网搜索页改版后已切换到新搜索接口，搜索结果、详情跳转和原来完全一致）。
 - **v1.9.5**（2026-10-22）：修复上新日历取不到数据、只能刷出兜底候选的问题（官方日历接口恢复签名直连：当天约 30 条首发与更新剧目，每条带真实更新时间）；修复日历翻页空转；新增 15 天日期条，点哪天看哪天。
 - **v1.9.4**（2026-10-21）：首页刷新提速约 7 倍（不再等约一分钟）；限流后不再白屏；新增「有新集」提示——首页显示几部有新集，卡片标注新增集数。
 - **v1.9.3**（2026-10-18）：首页、上新日历、上新监控新增「刷新」按钮，只在点击时联网取数，页面不再自动刷新；有新剧时刷新按钮标红显示「新 N」，点一次即清零。上新监控仍按设定间隔自动检查并自动下载，只是不再重刷页面。同时把剧集列表抓取的起始并发由 1 提到 3，大批量翻页明显更快。

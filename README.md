@@ -9,6 +9,12 @@
 
 ![果核 短剧下载 沉浸深色主界面](assets/xdown_main.png)
 
+## 🎬 软件功能实操演示
+
+https://github.com/lingxiaoyiyu-hub/xdown-download/raw/main/assets/demo.mp4
+
+<video src="https://github.com/lingxiaoyiyu-hub/xdown-download/raw/main/assets/demo.mp4" controls="controls" width="100%"></video>
+
 ## ⬇ 立即下载
 
 **[下载 果核短剧下载_v2.0.0.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/xdown-download/releases/download/v2.0.0/XDown_v2.0.0.exe)**

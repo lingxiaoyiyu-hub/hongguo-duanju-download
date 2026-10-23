@@ -34,6 +34,14 @@
 
 ![剧集详情](assets/xdown_detail.png)
 
+**榜单中心 —— 热门榜单实时更新，全网热度一目了然**
+
+![榜单中心](assets/xdown_rank.png)
+
+**上新监控 —— 按需分页首屏秒开，关注新剧定时追踪**
+
+![上新监控](assets/xdown_monitor.png)
+
 ## 三步上手
 
 1. 下载并双击运行（如遇 SmartScreen 蓝色提示：点「更多信息」→「仍要运行」）

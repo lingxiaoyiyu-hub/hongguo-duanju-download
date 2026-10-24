@@ -1,7 +1,7 @@
 # 果核 短剧下载
 
-![Release](https://img.shields.io/github/v/release/lingxiaoyiyu-hub/xdown-download?label=%E7%89%88%E6%9C%AC)
-![下载量](https://img.shields.io/github/downloads/lingxiaoyiyu-hub/xdown-download/total?label=%E4%B8%8B%E8%BD%BD%E9%87%8F)
+![Release](https://img.shields.io/github/v/release/lingxiaoyiyu-hub/hongguo-duanju-download?label=%E7%89%88%E6%9C%AC)
+![下载量](https://img.shields.io/github/downloads/lingxiaoyiyu-hub/hongguo-duanju-download/total?label=%E4%B8%8B%E8%BD%BD%E9%87%8F)
 ![平台](https://img.shields.io/badge/%E5%B9%B3%E5%8F%B0-Windows%2010%2F11%20x64-0078d4)
 ![客服QQ](https://img.shields.io/badge/%E5%AE%A2%E6%9C%8DQQ-574719738-red)
 
@@ -11,13 +11,13 @@
 
 ## 🎬 软件功能实操演示
 
-https://github.com/lingxiaoyiyu-hub/xdown-download/raw/main/assets/demo.mp4
+https://github.com/lingxiaoyiyu-hub/hongguo-duanju-download/raw/main/assets/demo.mp4
 
-<video src="https://github.com/lingxiaoyiyu-hub/xdown-download/raw/main/assets/demo.mp4" controls="controls" width="100%"></video>
+<video src="https://github.com/lingxiaoyiyu-hub/hongguo-duanju-download/raw/main/assets/demo.mp4" controls="controls" width="100%"></video>
 
 ## ⬇ 立即下载
 
-**[下载 果核短剧下载_v2.0.0.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/xdown-download/releases/download/v2.0.0/XDown_v2.0.0.exe)**
+**[下载 果核短剧下载_v2.0.0.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/hongguo-duanju-download/releases/download/v2.0.0/XDown_v2.0.0.exe)**
 （115.2MB ｜ Windows 10/11 64 位 ｜ 免安装单文件 ｜ 体积较上版缩减 53%）
 
 > 国内网络下载慢？用魔搭镜像：[果核短剧下载_v2.0.0.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/%E6%9E%9C%E6%A0%B8%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v2.0.0.exe)

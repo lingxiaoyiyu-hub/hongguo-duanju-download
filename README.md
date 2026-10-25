@@ -18,10 +18,10 @@
 
 ## ⬇ 立即下载
 
-**[下载 果核短剧下载_v2.0.1.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/hongguo-duanju-download/releases/download/v2.0.1/XDown_v2.0.1.exe)**
+**[下载 果核短剧下载_v2.0.2.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/hongguo-duanju-download/releases/download/v2.0.2/XDown_v2.0.2.exe)**
 （115.2MB ｜ Windows 10/11 64 位 ｜ 免安装单文件 ｜ 体积较上版缩减 53%）
 
-> 国内网络下载慢？用魔搭镜像：[果核短剧下载_v2.0.1.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/%E6%9E%9C%E6%A0%B8%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v2.0.1.exe)
+> 国内网络下载慢？用魔搭镜像：[果核短剧下载_v2.0.2.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/%E6%9E%9C%E6%A0%B8%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v2.0.2.exe)
 
 ## 它能做什么
 
@@ -96,6 +96,7 @@ XDACDE8FBA80D12204A3
 
 ## 更新日志
 
+- **v2.0.2**（2026-10-25）：搜索结果不再混入一堆无关推荐，剧名对得上的排在最前；资源搜索框可直接粘贴作品分享链接，自动识别并打开对应短剧；上新日历与上新监控切到别的板块再回来不再重新加载，保留原来的页码与滚动位置。
 - **v2.0.1**（2026-10-23）：品牌升级为「果核」，更换全新黑底珊瑚红图标；上新监控改为按页加载，首屏由约 34 秒降至 1 秒级，并修复翻页后时间顺序颠倒；修复深色主题下剧名、集名、设置项文字看不清；修复多选下载退出后再次进入失效、保存位置选完文件夹不显示路径、检查间隔看不到数字、鼠标停在列表上滚轮无效等问题；登录页不再展示机器码；窗口改为圆角外观。单文件体积由 244.7MB 缩减至 115.2MB。
 - **v1.9.6**（2026-10-22）：修复搜索失效的问题（官网搜索页改版后已切换到新搜索接口，搜索结果、详情跳转和原来完全一致）。
 - **v1.9.5**（2026-10-22）：修复上新日历取不到数据、只能刷出兜底候选的问题（官方日历接口恢复签名直连：当天约 30 条首发与更新剧目，每条带真实更新时间）；修复日历翻页空转；新增 15 天日期条，点哪天看哪天。

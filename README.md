@@ -3,7 +3,6 @@
 ![Release](https://img.shields.io/github/v/release/lingxiaoyiyu-hub/hongguo-duanju-download?label=%E7%89%88%E6%9C%AC)
 ![下载量](https://img.shields.io/github/downloads/lingxiaoyiyu-hub/hongguo-duanju-download/total?label=%E4%B8%8B%E8%BD%BD%E9%87%8F)
 ![平台](https://img.shields.io/badge/%E5%B9%B3%E5%8F%B0-Windows%2010%2F11%20x64-0078d4)
-![客服QQ](https://img.shields.io/badge/%E5%AE%A2%E6%9C%8DQQ-574719738-red)
 
 > 红果短剧/漫剧 Windows 桌面下载工具：搜索、在线播放、批量下载，追剧一站式完成。全新黑曜石高级暗黑质感与珊瑚橙配色，免安装，下载即用。
 
@@ -74,10 +73,10 @@ XDACDE8FBA80D12204A3
 | 年卡 | ¥138 | **≈ 11.5 元/月** |
 | 永久卡 | ¥198 | 一次付费，永不过期 |
 
-**购买请加客服 QQ：574719738**（备注「果核」），付款后即时发卡。
+可在软件登录界面点击【🛒 购买卡密】进入购卡通道，付款后即时自动发卡。
 
 - 卡密首次登录自动绑定设备，一卡一机
-- 换电脑请联系客服解绑，新机登录即重新绑定
+- 换电脑可在软件登录界面右下角点击【🔓 自助解绑】（每月限 2 次），新机登录即自动重新绑定
 - 登录后自动心跳保活，意外断线自动返回登录页，进度不丢
 
 ## 常见问题

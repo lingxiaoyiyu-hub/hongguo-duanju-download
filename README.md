@@ -17,10 +17,10 @@
 
 ## ⬇ 立即下载
 
-**[下载 果核短剧下载_v2.0.6.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/hongguo-duanju-download/releases/download/v2.0.6/GuoHe_v2.0.6.exe)**
+**[下载 果核短剧下载_v2.0.7.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/hongguo-duanju-download/releases/download/v2.0.7/GuoHe_v2.0.7.exe)**
 （116.0MB ｜ Windows 10/11 64 位 ｜ 免安装单文件）
 
-> 国内网络下载慢？用魔搭镜像：[果核短剧下载_v2.0.6.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/%E6%9E%9C%E6%A0%B8%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v2.0.6.exe)
+> 国内网络下载慢？用魔搭镜像：[果核短剧下载_v2.0.7.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/%E6%9E%9C%E6%A0%B8%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v2.0.7.exe)
 
 ## 它能做什么
 
@@ -88,6 +88,7 @@ XDACDE8FBA80D12204A3
 
 ## 更新日志
 
+- **v2.0.7**（2026-11-04）：修复部分网络环境登录提示网络验证连接失败的问题，登录请求已支持自动切换直连通道重试。
 - **v2.0.6**（2026-11-04）：修复筛选找剧进入详情后返回丢失标签选择与滚动位置的问题；修复历史配置缓存导致无法平滑迁移的问题，已支持自动迁移到GuoHe目录；新增筛选找剧横竖屏画面筛选与剧集卡片方向角标；新增详情页选集全选按钮，全选后可手动取消个别集；新增云端视频钥匙解密与1小时通行手环机制；更改授权与动态路由服务，全面切换至新域名与低延迟核心节点；优化筛选找剧翻页拉取策略，横屏凑页提速并显示拉取进度。
 - **v2.0.5**（2026-10-29）：修复登录窗口高度溢出导致登录与退出按钮在部分缩放率下被挤压截断的问题；新增登录界面卡密自助解绑功能，支持安全换机与当月限额提示（每月可自助解绑 2 次）；新增登录界面一键直达卡网购买卡密入口；更改登录界面底部操作栏布局，窗口支持根据内容自适应高度展开；服务端全面上线第一套多层智能安全防御引擎（毫秒级频率限制 + 恶意违规关小黑屋 + 试用防刷农场 + 日志安全轮转）。
 - **v2.0.4**（2026-10-28）：修复短视频切片并发与弱网抖动导致的下载停顿问题；修复下载重试时已下载进度显示假死卡住的问题；新增云端动态路由与规则下发引擎，后续接口与风控变动均可动态热生效无需频繁更新客户端；更改单集下载策略，常规剧集单流直写提升下载流畅度与抗波动能力。

@@ -17,10 +17,10 @@
 
 ## ⬇ 立即下载
 
-**[下载 果核短剧下载_v2.1.0.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/hongguo-duanju-download/releases/download/v2.1.0/GuoHe_v2.1.0.exe)**
+**[下载 果核短剧下载_v2.1.1.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/hongguo-duanju-download/releases/download/v2.1.1/GuoHe_v2.1.1.exe)**
 （116.0MB ｜ Windows 10/11 64 位 ｜ 免安装单文件）
 
-> 国内网络下载慢？用魔搭镜像：[果核短剧下载_v2.1.0.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/%E6%9E%9C%E6%A0%B8%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v2.1.0.exe)
+> 国内网络下载慢？用魔搭镜像：[果核短剧下载_v2.1.1.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/%E6%9E%9C%E6%A0%B8%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v2.1.1.exe)
 
 ## 它能做什么
 
@@ -88,6 +88,7 @@ XDACDE8FBA80D12204A3
 
 ## 更新日志
 
+- **v2.1.1**（2026-11-08）：修复下载目录填错或不可写时整批失败的问题（保存即校验并给中文提示）；修复上游缺片的集反复重试、白等约 30 秒的问题。
 - **v2.1.0**（2026-11-08）：下载稳定性：单流断点续传、同编码备用片源自动轮换、磁盘守卫；「等待重试」可见可暂停；转码排队提示与残留文件清理。
 - **v2.0.9**（2026-11-07）：修复下载时好时坏、取地址被限流导致整批任务同时失败、中途断流后整集重下；新增软件内公告。
 - **v2.0.8**（2026-11-06）：修复红果接口改版导致下载全部失败（改用内置取地址通道）、加密剧集下载后解密失败。

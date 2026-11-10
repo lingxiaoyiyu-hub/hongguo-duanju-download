@@ -17,10 +17,10 @@
 
 ## ⬇ 立即下载
 
-**[下载 果核短剧下载_v2.1.2.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/hongguo-duanju-download/releases/download/v2.1.2/GuoHe_v2.1.2.exe)**
+**[下载 果核短剧下载_v2.1.3.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/hongguo-duanju-download/releases/download/v2.1.3/GuoHe_v2.1.3.exe)**
 （116.0MB ｜ Windows 10/11 64 位 ｜ 免安装单文件）
 
-> 国内网络下载慢？用魔搭镜像：[果核短剧下载_v2.1.2.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/%E6%9E%9C%E6%A0%B8%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v2.1.2.exe)
+> 国内网络下载慢？用魔搭镜像：[果核短剧下载_v2.1.3.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/%E6%9E%9C%E6%A0%B8%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v2.1.3.exe)
 
 ## 它能做什么
 
@@ -88,6 +88,7 @@ XDACDE8FBA80D12204A3
 
 ## 更新日志
 
+- **v2.1.3**（2026-11-11）：修复上游接口收紧导致的下载失败与整季下载中途卡在解析的问题（取地址已适配，注册被拒自动切换备用身份）；新增西饭短剧备用来源，红果受限时可一键切换；优化下载速度（多连接分片与取址/下载/转码三槽并行）；优化 ByteVC2 剧集转码速度约 3 倍；优化浏览与封面加载速度。
 - **v2.1.2**（2026-11-09）：修复部分新剧采用 ByteVC2 编码导致下载报错的问题（内置专用解码器自动边解密边转为通用 MP4）；优化视频转码时的系统 CPU 调度与进程优先级，彻底杜绝前台操作卡顿；优化下载队列并发逻辑，常规集数秒速解密不再排队等待。
 - **v2.1.1**（2026-11-08）：修复下载目录填错或不可写时整批失败的问题（保存即校验并给中文提示）；修复上游缺片的集反复重试、白等约 30 秒的问题。
 - **v2.1.0**（2026-11-08）：下载稳定性：单流断点续传、同编码备用片源自动轮换、磁盘守卫；「等待重试」可见可暂停；转码排队提示与残留文件清理。

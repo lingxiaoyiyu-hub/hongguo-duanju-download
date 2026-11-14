@@ -17,10 +17,10 @@
 
 ## ⬇ 立即下载
 
-**[下载 果核短剧下载_v2.1.6.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/hongguo-duanju-download/releases/download/v2.1.6/GuoHe_v2.1.6.exe)**
+**[下载 果核短剧下载_v2.1.8.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/hongguo-duanju-download/releases/download/v2.1.8/GuoHe_v2.1.8.exe)**
 （151.8MB ｜ Windows 10/11 64 位 ｜ 免安装单文件）
 
-> 国内网络下载慢？用魔搭镜像：[果核短剧下载_v2.1.6.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/%E6%9E%9C%E6%A0%B8%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v2.1.6.exe)
+> 国内网络下载慢？用魔搭镜像：[果核短剧下载_v2.1.8.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/%E6%9E%9C%E6%A0%B8%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v2.1.8.exe)
 
 ## 它能做什么
 
@@ -88,6 +88,7 @@ XDACDE8FBA80D12204A3
 
 ## 更新日志
 
+- **v2.1.8**（2026-11-14）：修复下载完成后长期停在 0 集、卡在解密完成或 100% 下载中的问题（后处理槽即时释放、封面/简介非阻塞单飞与限时兜底）；修复旧取地址运行库目录被占用导致整批解析反复失败的问题；修复单集偶发空响应冻结下载队列；取地址改为多节点轮询与共享身份并发，整季取址与解密更快更稳。
 - **v2.1.6**（2026-11-12）：修复公告图标显示异常；修复断网两三分钟就被踢回登录页的问题；优化取址速度——改为共享身份优先，单集解析从约 1.7 秒降到 0.2 秒，整季下载明显更快。
 - **v2.1.5**（2026-11-11）：修复上游拒绝取址后整季每集仍反复重试、白等数十秒的问题（拒绝立即进入冷却）；修复空响应仍触发四轮自动重试、失败集白等数分钟的问题。
 - **v2.1.4**（2026-11-11）：修复上游取址改版导致的整季下载全部失败（签名算法升级为 551 版）；新增 1080p 全清晰度支持；优化取址速度，整季批量请求替代逐集注册设备。

@@ -17,10 +17,10 @@
 
 ## ⬇ 立即下载
 
-**[下载 果核短剧下载_v2.1.9.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/hongguo-duanju-download/releases/download/v2.1.9/GuoHe_v2.1.9.exe)**
-（151.8MB ｜ Windows 10/11 64 位 ｜ 免安装单文件）
+**[下载 果核短剧下载_v2.2.0.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/hongguo-duanju-download/releases/download/v2.2.0/GuoHe_v2.2.0.exe)**
+（172.2MB ｜ Windows 10/11 64 位 ｜ 免安装单文件）
 
-> 国内网络下载慢？用魔搭镜像：[果核短剧下载_v2.1.9.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/%E6%9E%9C%E6%A0%B8%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v2.1.9.exe)
+> 国内网络下载慢？用魔搭镜像：[果核短剧下载_v2.2.0.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/%E6%9E%9C%E6%A0%B8%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v2.2.0.exe)
 
 ## 它能做什么
 
@@ -88,6 +88,7 @@ XDACDE8FBA80D12204A3
 
 ## 更新日志
 
+- **v2.2.0**（2026-11-16）：修复上游风控导致旧协议取址返回空包无法下载的问题；修复取址并发冲突导致请求回退旧注册超时与限流的问题；修复界面图片主线程同步解码导致切换板块掉帧卡顿的问题；新增 MetaSec v5 本地离线签名引擎与 1080p HEVC 取址通道；新增取址桥接层 FIFO 异步请求队列调度与并发重试；优化下载预取循环与状态汇总对 UI 消息泵的占用和退避。
 - **v2.1.9**（2026-11-15）：修复部分用户默认挤在单一设备导致频繁限流下载慢的问题；修复单个 CDN 节点异常后全进程永久降速并卡在单线重试的问题；修复全部暂停与全部继续快速切换时偶发状态错乱或排队卡死的问题；新增多设备池与搜索预热备选设备自动切换；优化分片下载全局并发上限与系统代理判断，降低高并发断流卡顿。
 - **v2.1.8**（2026-11-14）：修复下载完成后长期停在 0 集、卡在解密完成或 100% 下载中的问题（后处理槽即时释放、封面/简介非阻塞单飞与限时兜底）；修复旧取地址运行库目录被占用导致整批解析反复失败的问题；修复单集偶发空响应冻结下载队列；取地址改为多节点轮询与共享身份并发，整季取址与解密更快更稳。
 - **v2.1.6**（2026-11-12）：修复公告图标显示异常；修复断网两三分钟就被踢回登录页的问题；优化取址速度——改为共享身份优先，单集解析从约 1.7 秒降到 0.2 秒，整季下载明显更快。

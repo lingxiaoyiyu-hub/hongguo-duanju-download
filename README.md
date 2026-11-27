@@ -17,10 +17,10 @@
 
 ## ⬇ 立即下载
 
-**[下载 果核短剧下载_v2.3.2.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/hongguo-duanju-download/releases/download/v2.3.2/GuoHe_v2.3.2.exe)**
+**[下载 果核短剧下载_v2.3.3.exe（GitHub Releases）](https://github.com/lingxiaoyiyu-hub/hongguo-duanju-download/releases/download/v2.3.3/GuoHe_v2.3.3.exe)**
 （172.4MB ｜ Windows 10/11 64 位 ｜ 免安装单文件）
 
-> 国内网络下载慢？用魔搭镜像：[果核短剧下载_v2.3.2.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/%E6%9E%9C%E6%A0%B8%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v2.3.2.exe)
+> 国内网络下载慢？用魔搭镜像：[果核短剧下载_v2.3.3.exe（ModelScope 直链）](https://www.modelscope.cn/models/lingxiaoyiyu/xdown-releases/resolve/master/%E6%9E%9C%E6%A0%B8%E7%9F%AD%E5%89%A7%E4%B8%8B%E8%BD%BD_v2.3.2.exe)
 
 ## 它能做什么
 
@@ -88,6 +88,7 @@ XDACDE8FBA80D12204A3
 
 ## 更新日志
 
+- **v2.3.3**（2026-11-27）：修复了搜索与部分剧集详情漏拉播放量、显示播放量未公开的问题；修复了安全软件拦截导致解析组件残缺时自动自愈及选集兜底解析；新增了核马短剧列表封面与剧集详情的已下载状态标识及全选自动跳过；新增了下载设置页「修复解析组件」一键自检修复入口；优化了上新监控多路并发加载与缓存分页，大幅缩短首屏与切体裁等待。
 - **v2.3.2**（2026-11-25）：修复了筛选找剧切换体裁后列表显示为 0 部的问题；优化了核马短剧下载支持多集并发，大幅提升整剧下载速度；优化了资源搜索与资料补全流程，搜剧出结果更快。
 - **v2.3.1**（2026-11-23）：修复了搜索结果页无法批量勾选下载的问题；修复了连续多集下载偶发卡顿停滞的问题；新增了试用到期时保留列表并直接激活新卡密的功能；新增了试用剩余集数实时显示与额度不足提醒；更改了选集加入下载后保留当前页并新增右下角查看队列提示；更改了购买正式卡密入口固定在左下角，不再随菜单滚走。
 - **v2.3.0**（2026-11-20）：修复了剧集详情页不显示全剧总时长的问题；修复了窗口滚动条滑块选不中的问题；修复了备用来源下载时多余请求导致的等待；新增了核马短剧备用来源，支持分类、搜索与全集下载；新增了剧集连线选集，果子/稀饭/核马通用；新增了登录后侧栏常驻的购买卡密入口。
